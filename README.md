@@ -1,24 +1,7 @@
-# README
+# rails_tinder
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### docker
+https://qiita.com/madai0517/items/417063f924c0dfc27f3a
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### サンプル
+https://www.techpit.jp/courses/134/curriculums/137/sections/994/parts/3831
