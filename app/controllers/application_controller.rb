@@ -9,7 +9,7 @@ class ApplicationController < ActionController::Base
     # この行を追加
     devise_parameter_sanitizer.permit(
       :account_update,
-      keys: %i[name self_introduction],
+      keys: %i[name self_introduction profile_image],
     )
   end
 end
