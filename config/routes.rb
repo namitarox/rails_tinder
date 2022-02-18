@@ -9,4 +9,6 @@ Rails.application.routes.draw do
   root "top#index"
   resources :users, only: %i[show index]
   resources :reactions, only: [:create]
+  resources :matching, only: [:index]
+  resources :chat_rooms, only: %i[create show]
 end
